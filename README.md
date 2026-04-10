@@ -38,7 +38,7 @@
 
         <div class="section">
             <h2>PENDIDIKAN</h2>
-            <div class="item"><strong>2017 - 2021</strong>: SD N PIRING</div>
+            <div class="item"><strong>2015 - 2021</strong>: SD N PIRING</div>
             <div class="item"><strong>2021 - 2024</strong>: SMP N 1 SANDEN</div>
             <div class="item"><strong>2024 - 2027</strong>: SMK N 1 SANDEN</div>                                
         </div>
